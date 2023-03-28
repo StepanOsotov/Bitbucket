@@ -1,2 +1,2 @@
 # Bitbucket
-start ch2 avg$0A
+Keil, RTOS, stm32F103C8 (BluePill), ADC(Inject - On, Regular - Off), USART(Tx - DMA, Rx - IRQ)
